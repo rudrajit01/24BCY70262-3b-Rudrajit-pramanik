@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 📚 Library Manager
 A simple frontend CRUD application built using Next.js, React, and Tailwind CSS.
 
